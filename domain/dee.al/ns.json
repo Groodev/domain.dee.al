@@ -2,25 +2,25 @@
   
 {
   "koneksi": "NS",
-  "hostku": "@",
-  "target": "ns1.firdausiregar.my.id"
+  "hostku": "BISMP",
+  "target": "galileo.aternos.org"
 },
 {
   "koneksi": "NS",
-  "hostku": "@",
-  "target": "ns2.firdausiregar.my.id"
+  "hostku": "BISMP",
+  "target": "galileo.aternos.org"
 },
   
 {
   "koneksi": "NS",
-  "hostku": "rilisan",
-  "target": "ns1.rilisan.my.eu.org"
+  "hostku": "BISMP",
+  "target": "columbus.aternos.org"
 },
 
 {
   "koneksi": "NS",
-  "hostku": "rilisan",
-  "target": "ns2.rilisan.my.eu.org"
+  "hostku": "BISMP",
+  "target": "columbus.aternos.org"
 }
   
   
